@@ -1,0 +1,31 @@
+{
+    "folders": [
+        {
+            "name": "Blink",
+            "path": "..\\..\\Blink"
+        },
+        {
+            "name": "Button",
+            "path": ".."
+        },
+        {
+            "name": "7-Segment Display",
+            "path": "..\\..\\7-Segment Display"
+        },
+        {
+            "name": "LED Matrix Display",
+            "path": "..\\..\\LED Matrix Display"
+        },
+        {
+            "name": "LCD Display",
+            "path": "..\\..\\LCD Display"
+        }
+    ],
+    "settings": {
+        "git.ignoreLimitWarning": true,
+        "terminal.integrated.env.windows": {
+            "PATH": "C:\\Users\\shach\\.platformio\\penv\\Scripts;C:\\Users\\shach\\.platformio\\penv;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Users\\shach\\.jdks\\openjdk-14.0.2\\bin;C:\\Program Files\\dotnet\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Git\\cmd;C:\\Users\\shach\\.jdks\\openjdk-14.0.2\\bin;C:\\Users\\shach\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\shach\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Users\\shach\\.jdks\\openjdk-14.0.2\\bin;C:\\Program Files\\dotnet\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Git\\cmd;C:\\Users\\shach\\.jdks\\openjdk-14.0.2\\bin;C:\\Users\\shach\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\shach\\AppData\\Local\\Programs\\Microsoft VS Code\\bin",
+            "PLATFORMIO_CALLER": "vscode"
+        }
+    }
+}
